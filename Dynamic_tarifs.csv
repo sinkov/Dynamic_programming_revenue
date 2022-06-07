@@ -1,0 +1,10 @@
+﻿Category/occupancy,Number of rooms,<15%,16-45%,46-70%,71-89%,90-100% 
+Twin Room economy,2,66,73,80,89,97
+Twin Room,50,86,111,129,141,149
+Junior Suite Room,3,109,141,163,179,187
+Suite Room,10,126,163,189,207,217
+Tower Suite Room,2,143,186,214,236,247
+Standard Apartment,11,126,163,189,207,217
+Family Apartment,34,229,297,341,357,376
+Corona Villa,4,343,466,507,521,537
+Royal Villa,1,343,507,609,623,637
