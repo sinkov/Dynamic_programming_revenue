@@ -1,4 +1,4 @@
-# Revenue management project (Applied to hotel bookings)
+# Revenue management group project (Applied to hotel bookings)
 
 ![Screenshot](Dynamic-Pricing.png)
 
